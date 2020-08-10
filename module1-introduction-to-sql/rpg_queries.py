@@ -77,7 +77,7 @@ items = get_stuff(query3)
 
 #Print Statements
 print('QUESTION 3')
-print('Total number of items: {}'.format(items))
+print('Total number of items: {}'.format(items[0][0]))
 print('')
 
 
