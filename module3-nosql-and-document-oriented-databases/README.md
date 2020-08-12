@@ -50,3 +50,16 @@ into your MongoDB cluster.
 Push MongoDB - it is flexible and can support fast iteration. Design your own
 database to save some key/value pairs for an application you'd like to work on
 or data you'd like to analyze, and build it out as much as you can!
+
+# Assignment Question:
+### How was working with MongoDB different from working with PostgreSQL? What was easier, and what was harder?
+
+The I think the biggest difference between the two is the use of SQL for PostgreSQL, 
+allowing a user who has at least a minimal understanding of the language to quickly 
+and easily view the contents of their database.  This creates what feels like, to me, 
+a sense of separation from the data when working with MongoDB, where the contents of
+the db seems to exist behind a layer of myster.  
+
+The trade off for this is of course greater complexity when using PostgreSQL compared
+to MongoDB, who's more programtic interaction seems to make getting and sending data
+a lot smoother within our script.
